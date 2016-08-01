@@ -5,6 +5,7 @@
 
     <bean id="helloBean" class="com.github.Karina_Denisevich.spring.hello_world.core.HelloWorld">
         <property name="value" value="Hello world"/>
+        <property name="value1" value=" value1"/>
     </bean>
 
 </beans>
