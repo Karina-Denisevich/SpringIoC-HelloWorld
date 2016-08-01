@@ -4,7 +4,7 @@ public class HelloWorld {
 
     private String value;
 
-    public void setName(String value) {
+    public void setValue(String value) {
         this.value = value;
     }
 
